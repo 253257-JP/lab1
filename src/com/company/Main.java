@@ -3,6 +3,12 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    String witaj, imie;
+        witaj="Witaj";
+        imie="Maciek";
+        System.out.println(witaj+imie);
+
+
+    System.exit(status: 0);
     }
 }
